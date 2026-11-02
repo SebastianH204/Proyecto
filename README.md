@@ -1,6 +1,6 @@
 # PokeSearch · Explorador interactivo de Pokémon
 
-![CI](https://github.com/SebastianH204/Poke-Api/actions/workflows/ci.yml/badge.svg)
+![CI](https://github.com/SebastianH204/Proyecto/actions/workflows/ci.yml/badge.svg)
 
 **Pruébalo aquí:** https://TU-PROYECTO.vercel.app
 
@@ -22,8 +22,8 @@ Es un explorador de Pokémon hecho con los datos reales de la PokéAPI. Puedes b
 ## Cómo correrlo en tu computador
 
 ```bash
-git clone https://github.com/SebastianH204/Poke-Api.git
-cd Poke-Api
+git clone https://github.com/SebastianH204/Proyecto.git
+cd Proyecto
 npm install
 npm run dev
 ```
