@@ -1,0 +1,17 @@
+{
+  "name": "explorador-pokesearch",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Explorador PokeSearch con Tailwind CSS v4 y la PokéAPI",
+  "author": "Sebastian Herrera Rueda",
+  "scripts": {
+    "dev": "tailwindcss -i ./src/entrada.css -o ./css/tailwind.css --watch",
+    "build": "tailwindcss -i ./src/entrada.css -o ./css/tailwind.css --minify",
+    "validar": "html-validate index.html"
+  },
+  "devDependencies": {
+    "@tailwindcss/cli": "^4.3.3",
+    "html-validate": "^11.16.2",
+    "tailwindcss": "^4.3.3"
+  }
+}
