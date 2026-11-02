@@ -2,7 +2,7 @@
 
 ![CI](https://github.com/SebastianH204/Proyecto/actions/workflows/ci.yml/badge.svg)
 
-**Pruébalo aquí:** https://TU-PROYECTO.vercel.app
+**Pruébalo aquí:** https://proyecto-pearl-two.vercel.app
 
 Es un explorador de Pokémon hecho con los datos reales de la PokéAPI. Puedes buscar por nombre, filtrar por tipo, ver el detalle de cada uno en una ventana, cargar más Pokémon y guardar tus favoritos, que se quedan guardados aunque cierres el navegador.
 
